@@ -9,5 +9,5 @@ You can easily use a browser plugin to override the current styles, like Stylish
 - [For Firefox](https://addons.mozilla.org/en-US/firefox/addon/stylish/)
 
 
-**11/22/2013:** First implementation includes simple style updates. This version is not responsive, though please, fork and improve.
+**11/22/2013:** First implementation includes simple style updates. This version is not responsive, though. Please, fork and improve.
 
