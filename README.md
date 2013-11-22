@@ -3,7 +3,7 @@ projectgutenberg
 
 ## Styles that make Project Gutenberg's huge collection of books more readable.
 
-It turns [this](http://cl.ly/image/0v2f19150G1Z) into [this](http://cl.ly/image/330y3d183R1G).
+### It turns [this](http://cl.ly/image/0v2f19150G1Z) into [this](http://cl.ly/image/0R173E3o3V46).
 
 You can easily use a browser plugin to override the current styles, like Stylish:
 
