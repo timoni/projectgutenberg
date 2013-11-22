@@ -1,0 +1,29 @@
+    body { margin:40px 20%; background:#fff; text-align:center; font-family:georgia, serif; font-size: 20px; line-height: 34px;}
+    P {margin: 1.5em auto; width: 600px; text-align: left; text-indent: 0;}
+    H1,H2,H3,H4,H5,H6 {font-weight: normal; text-align: center;}
+	h1 {font-size: 40px; line-height: 40px; padding: 0 0 10px 0; margin: 0 auto;}
+h1 big {font-size: 70px; line-height: 40px;}
+    hr  { width: 50%; text-align: center;}
+strong, b {font-weight: normal;}
+h2 {font-size: 30px; line-height: 30px; margin: 1em 0; padding: 0;}
+h3 {font-size: 20px; text-transform: uppercase; margin: 10px; padding: 0;}
+h4 {font-size: 18px; font-style: italic; line-height: 22px;}
+    .foot { margin-left: 20%; margin-right: 20%; text-align: justify; text-indent: -3em; font-size: 90%; }
+    blockquote {font-size: 18px; font-style: normal; margin: 0 auto; width: 600px;}
+    .mynote    {background-color: #fff; color: #000; border-top: #000 dotted 1px; padding: 1em 0; font-family:georgia, serif; border-bottom: #000 dotted 1px; font-size: 16px; font-style: italic; text-align: center; width: 800px; margin: 0 auto;}
+    .toc       { margin-left: 0; margin-bottom: 0;}
+    .toc2      { margin-left: 0;}
+    div.fig    { display:block; margin:0 auto; text-align:center; }
+    div.middle { margin-left: 20%; margin-right: 20%; text-align: justify; }
+    .figleft   {float: left; margin-left: 0%; margin-right: 1%;}
+    .figright  {float: right; margin-right: 0%; margin-left: 1%;}
+    .pagenum   {display:inline; font-size: 70%; font-style:normal;
+               margin: 0; padding: 0; position: absolute; right: 1%;
+               text-align: right;}
+    pre        {display:none}
+
+p.toc {width: 600px; text-align: center;}
+
+blockquote p {text-align: center;}
+    
+p.toc big {font-size: 16px; font-weight: normal; text-transform: uppercase; letter-spacing: 10px; text-align: center; font-style: normal; }
